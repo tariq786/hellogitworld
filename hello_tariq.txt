@@ -1,0 +1,9 @@
+#include<iostream>
+
+int main()
+{
+
+printf("Hello World from Tariq!\n");
+return 0;
+
+}
